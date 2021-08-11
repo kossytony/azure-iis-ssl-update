@@ -2,6 +2,6 @@
 
 Dwonloads and Imports certs to C:\ drive
 
-Update the HTTPS SSL Binding in Azure for Windows Server VM running IIS using the imported cert.
+Updates the HTTPS SSL Binding for Windows Server VM running IIS in Azure using the imported cert.
 
-Can be modified to binding on any ports
+Can be modified to bind on any ports
